@@ -1,0 +1,5 @@
+Solution to problem at 'programming' course taught at II UWr (2009).
+
+Goal of excercise was writing parser and interpreter, which should also print possible syntax erros and handle 'scopes' of augmented WHILE language [*] in Prolog. Stucture of languace was specyfied and described at lectures.
+
+[*] Due to copyrights, specyfication of problem cannot be published, but nearly whole subset of its sytax is avaliable here: http://www.program-analysis.com/while.html
